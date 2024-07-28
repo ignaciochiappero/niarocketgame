@@ -1,3 +1,5 @@
+//components/RocketComponent.tsx
+
 import { RocketIcon } from 'lucide-react';
 import React from 'react';
 

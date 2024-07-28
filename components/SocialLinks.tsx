@@ -1,3 +1,5 @@
+//components/SocialLinks.tsx
+
 'use client'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faYoutube, faLinkedin } from '@fortawesome/free-brands-svg-icons';

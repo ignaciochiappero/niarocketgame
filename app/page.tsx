@@ -1,3 +1,5 @@
+//app/page.tsx
+
 "use client"
 // Importamos los componentes necesarios
 import BoulderComponent from "@/components/BoulderComponent";

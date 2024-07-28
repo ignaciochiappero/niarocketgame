@@ -1,3 +1,5 @@
+//components/GameInfoOverlay.tsx
+
 import { Loader2, RocketIcon } from 'lucide-react'; // Importar íconos de la librería lucide-react
 import React from 'react';
 import SocialMediaLinks from './SocialLinks'; // Importar el componente de enlaces de redes sociales

@@ -1,3 +1,5 @@
+//components/HandRecognizer.tsx
+
 import { FilesetResolver, HandLandmarker, HandLandmarkerResult } from '@mediapipe/tasks-vision';
 import React, { useEffect, useRef } from 'react';
 
